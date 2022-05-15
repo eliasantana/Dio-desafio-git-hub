@@ -7,4 +7,4 @@ Este repositório foi criado com o  objetivo de armazenar os desafios de Projeto
 
 ### O que há de novo?
 
-- Repositório Inicial GIT/GITHUB
+- Adição da pasta **introducao-git** 
