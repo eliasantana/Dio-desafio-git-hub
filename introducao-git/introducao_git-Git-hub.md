@@ -6,6 +6,6 @@
 
   - https://git-scm.com/docs
 
-  - ### Todos os Comandos
+  - ### Comandos
 
   - https://git-scm.com/docs/git#_git_commands
